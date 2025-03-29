@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.php": "php",
+        "*.py": "python",
+        "iomanip": "cpp"
+    }
+}
